@@ -1,0 +1,194 @@
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.Development.json
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.json
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.exe
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.deps.json
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.runtimeconfig.json
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.pdb
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.AssemblyReference.cache
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfoInputs.cache
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfo.cs
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CoreCompileInputs.cache
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cs
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cache
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.ADODemo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.build.ADODemo.props
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADODemo.props
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADODemo.props
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.build.json
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.development.json
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\scopedcss\bundle\ADODemo.styles.css
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CopyComplete
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\refint\ADODemo.dll
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.pdb
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.genruntimeconfig.cache
+F:\Uthow\NET 6 web api\ADODemo\ADODemo\obj\Debug\net6.0\ref\ADODemo.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.json
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.exe
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.deps.json
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.AssemblyReference.cache
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfoInputs.cache
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfo.cs
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CoreCompileInputs.cache
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.ADODemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.build.ADODemo.props
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADODemo.props
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADODemo.props
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\scopedcss\bundle\ADODemo.styles.css
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CopyComplete
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\refint\ADODemo.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.pdb
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.genruntimeconfig.cache
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.runtimeconfig.json
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.pdb
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\obj\Debug\net6.0\ref\ADODemo.dll
+C:\Users\toyabur.rahman\Desktop\ADODemo\ADODemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.Development.json
+D:\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.json
+D:\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.exe
+D:\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.deps.json
+D:\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.runtimeconfig.json
+D:\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.pdb
+D:\ADODemo\ADODemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.AssemblyReference.cache
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfoInputs.cache
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfo.cs
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CoreCompileInputs.cache
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cs
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cache
+D:\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.ADODemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.build.ADODemo.props
+D:\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADODemo.props
+D:\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADODemo.props
+D:\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\ADODemo\ADODemo\obj\Debug\net6.0\scopedcss\bundle\ADODemo.styles.css
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CopyComplete
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.dll
+D:\ADODemo\ADODemo\obj\Debug\net6.0\refint\ADODemo.dll
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.pdb
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.genruntimeconfig.cache
+D:\ADODemo\ADODemo\obj\Debug\net6.0\ref\ADODemo.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.Development.json
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.json
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.exe
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.deps.json
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.runtimeconfig.json
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.pdb
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Permission Project\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.AssemblyReference.cache
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfoInputs.cache
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfo.cs
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CoreCompileInputs.cache
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.ADODemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.build.ADODemo.props
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADODemo.props
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADODemo.props
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\scopedcss\bundle\ADODemo.styles.css
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CopyComplete
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.dll
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\refint\ADODemo.dll
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.pdb
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.genruntimeconfig.cache
+D:\Permission Project\ADODemo\ADODemo\obj\Debug\net6.0\ref\ADODemo.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.Development.json
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\appsettings.json
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.exe
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.deps.json
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.runtimeconfig.json
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\ADODemo.pdb
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Permission Project\all new\ADODemo\ADODemo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.AssemblyReference.cache
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfoInputs.cache
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.AssemblyInfo.cs
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CoreCompileInputs.cache
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.ADODemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.build.ADODemo.props
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADODemo.props
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADODemo.props
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.build.json
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\staticwebassets.development.json
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\scopedcss\bundle\ADODemo.styles.css
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.csproj.CopyComplete
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.dll
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\refint\ADODemo.dll
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.pdb
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ADODemo.genruntimeconfig.cache
+D:\Permission Project\all new\ADODemo\ADODemo\obj\Debug\net6.0\ref\ADODemo.dll

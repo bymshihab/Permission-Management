@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ferdowsi.marufa\Desktop\DashboardAPI</_PublishTargetUrl>
+    <History>True|2023-04-04T06:23:56.1241578Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=STL-SOFT-FMARUF%3bInitial Catalog=Menu%3bUser ID=marufa%3bPassword=marufa</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="DefaultConnection2">
+      <Value>Data Source=172.16.1.6%3bInitial Catalog=NDESTEEL_ERP%3bUser ID=sa%3bPassword=user%402022</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
